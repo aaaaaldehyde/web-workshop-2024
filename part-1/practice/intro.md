@@ -4,9 +4,8 @@
 - I類
 
 ## 所属
-- 調布祭実行委員会
-  (https://www.chofusai.jp)
-- 新歓委員会(人員募集中。~~新入委員もっともっとこいこいこいkoikoiiiiiiiiiiii~~)(http://www.shinkan.gakuyukai.uec.ac.jp/)
+- [調布祭実行委員会](https://www.chofusai.jp)
+- [新歓委員会](http://www.shinkan.gakuyukai.uec.ac.jp/)(人員募集中。~~新入委員もっともっとこいこいこいkoikoiiiiiiiiiiii~~)
 
 ## 趣味
 ### ポケモン
